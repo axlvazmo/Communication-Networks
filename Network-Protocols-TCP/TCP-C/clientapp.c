@@ -5,7 +5,7 @@
 #include <arpa/inet.h>
 #include <netdb.h>
 #include <unistd.h>
-#include "comp.h"
+#include "comp.h"	//header file
 
 
 int main(){
